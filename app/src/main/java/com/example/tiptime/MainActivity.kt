@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         binding.costOfServiceEditText.setOnKeyListener {
                 view, keyCode, _ -> handleKeyEvent(view, keyCode)
         }
-
     }
     //Funcion calcular propina
     private fun calculateTip() {
