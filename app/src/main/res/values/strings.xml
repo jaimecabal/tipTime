@@ -5,4 +5,5 @@
     <string name="secondary_color">Secondary color</string>
     <string name="email_icon">email icon</string>
     <string name="tip_amount">Tip Amount: %s</string>
+    <string name="cost_of_service">Cost Of Service</string>
 </resources>
